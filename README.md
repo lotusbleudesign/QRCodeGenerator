@@ -5,4 +5,3 @@ Using Vite React
 # Roadmap
 
 Running QRCode On Device
-# QRCodeGenerator
